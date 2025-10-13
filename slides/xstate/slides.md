@@ -3,7 +3,7 @@ author: Terry Lin
 # You can also start simply with 'default'
 theme: default
 # some information about your slides (markdown enabled)
-title: XState Introduction - Terry Lin
+title: XState Introduction
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
