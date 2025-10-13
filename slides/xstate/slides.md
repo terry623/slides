@@ -1,4 +1,5 @@
 ---
+author: Terry Lin
 # You can also start simply with 'default'
 theme: default
 # some information about your slides (markdown enabled)
