@@ -1,0 +1,16 @@
+{
+  "name": "slidev-workspace-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "slidev-workspace preview",
+    "build": "slidev-workspace build"
+  },
+  "dependencies": {
+    "slidev-workspace": "^0.2.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
