@@ -2,14 +2,14 @@
 author: Terry Lin
 theme: default
 background: https://cover.sli.dev?title=claude-code
-title: Claude Code 介紹
+title: 次世代 AI 工具：Claude Code
 drawings:
   persist: false
 transition: slide-left
 info: 介紹 Claude Code 的功能特色、與 Roo Code 的差異，以及如何安裝使用
 ---
 
-# Claude Code 介紹
+# 次世代 AI 工具：Claude Code
 Terry Lin
 
 ---
