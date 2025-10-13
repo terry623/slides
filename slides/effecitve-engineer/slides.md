@@ -11,7 +11,7 @@ transition: slide-left
 mdc: true
 ---
 
-# How to be an<br/>Effective Engineer?
+# 如何成為高效工程師？
 Terry Lin
 
 ---
