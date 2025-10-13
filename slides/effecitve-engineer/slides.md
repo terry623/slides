@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: seriph
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=effecitve-engineer
 title: 如何成為高效工程師？
 class: text-center
 drawings:

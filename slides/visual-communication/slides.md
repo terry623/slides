@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: seriph
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=visual-communication
 title: 工程師必備的視覺化溝通技巧
 class: text-center
 drawings:

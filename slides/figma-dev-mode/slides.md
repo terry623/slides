@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: seriph
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=figma-dev-mode
 title: 為什麼需要 Figma Dev Mode？
 drawings:
   persist: false

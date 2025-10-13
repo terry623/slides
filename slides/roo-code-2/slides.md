@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: seriph
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=roo-code-2
 title: Roo Code 實戰指南 2
 drawings:
   persist: false

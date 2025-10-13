@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: seriph
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=k8s
 title: Kubernetes 新手指南
 drawings:
   persist: false

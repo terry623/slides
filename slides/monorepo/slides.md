@@ -5,7 +5,7 @@ title: Monorepo：拆分與整合的藝術
 drawings:
   persist: false
 transition: slide-left
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=monorepo
 ---
 
 <div class="absolute top-10 right-10">

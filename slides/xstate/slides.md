@@ -13,7 +13,7 @@ drawings:
 transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=xstate
 ---
 
 # 像 MAGIC 一樣厲害的 XState

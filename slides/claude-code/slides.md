@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 theme: default
-background: https://cover.sli.dev
+background: https://cover.sli.dev?title=claude-code
 title: Claude Code 介紹
 drawings:
   persist: false
