@@ -2,7 +2,7 @@
 author: Terry Lin
 theme: seriph
 background: https://cover.sli.dev
-title: Effective Engineer Introduction
+title: 如何成為高效工程師？
 class: text-center
 drawings:
   persist: false
@@ -12,7 +12,7 @@ mdc: true
 ---
 
 # How to be an<br/>Effective Engineer?
-Terry Lin @MediaTek
+Terry Lin
 
 ---
 layout: image-right

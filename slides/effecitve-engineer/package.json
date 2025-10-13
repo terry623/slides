@@ -1,10 +1,10 @@
 {
-  "name": "effective-engineer-introduction",
+  "name": "effective-engineer",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev --base /effective-engineer/",
     "export": "slidev export"
   },
   "dependencies": {

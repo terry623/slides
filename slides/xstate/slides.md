@@ -3,7 +3,7 @@ author: Terry Lin
 # You can also start simply with 'default'
 theme: default
 # some information about your slides (markdown enabled)
-title: XState Introduction
+title: 像 MAGIC 一樣厲害的 XState
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -16,7 +16,7 @@ mdc: true
 ---
 
 # 像 MAGIC 一樣厲害的 XState
-Terry Lin @MediaTek
+Terry Lin
 
 ---
 
