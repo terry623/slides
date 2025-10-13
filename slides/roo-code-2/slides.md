@@ -6,6 +6,7 @@ title: Roo Code 實戰指南 2
 drawings:
   persist: false
 transition: slide-left
+info: 透過真實開發情境展示 Roo Code 的應用，包含程式碼理解、功能開發、測試撰寫
 ---
 
 # Roo Code 實戰指南 2

@@ -14,6 +14,7 @@ transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 background: https://cover.sli.dev?title=xstate
+info: 介紹 XState 有限狀態機的概念，透過實際範例展示如何管理複雜的應用程式狀態
 ---
 
 # 像 MAGIC 一樣厲害的 XState

@@ -6,6 +6,7 @@ title: Claude Code 介紹
 drawings:
   persist: false
 transition: slide-left
+info: 介紹 Claude Code 的功能特色、與 Roo Code 的差異，以及如何安裝使用
 ---
 
 # Claude Code 介紹

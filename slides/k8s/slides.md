@@ -7,6 +7,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+info: 從零開始學習 Kubernetes 核心概念，包含 Cluster、Pod、Service 等基礎知識
 ---
 
 # Kubernetes 新手指南

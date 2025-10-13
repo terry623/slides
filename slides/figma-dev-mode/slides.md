@@ -7,6 +7,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+info: 介紹 Figma Dev Mode 三大核心功能，提升設計與開發協作效率
 ---
 
 # 為什麼需要 Figma Dev Mode？

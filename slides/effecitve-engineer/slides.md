@@ -9,6 +9,7 @@ drawings:
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
 mdc: true
+info: 探討如何透過槓桿效應、正確思維與執行力，成為高效能工程師的實用指南
 ---
 
 # 如何成為高效工程師？

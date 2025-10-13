@@ -6,6 +6,7 @@ title: Roo Code 實戰指南
 drawings:
   persist: false
 transition: slide-left
+info: 深入介紹 Roo Code 的核心功能與使用情境，從基礎操作到進階客製化
 ---
 
 # Roo Code 實戰指南

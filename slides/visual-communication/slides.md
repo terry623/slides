@@ -8,6 +8,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+info: 介紹 Mermaid、Excalidraw、Draw.io 等視覺化工具，提升溝通效率與技術表達能力
 ---
 
 # 工程師必備的視覺化溝通技巧

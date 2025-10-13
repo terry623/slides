@@ -6,6 +6,7 @@ drawings:
   persist: false
 transition: slide-left
 background: https://cover.sli.dev?title=monorepo
+info: 探討 Monorepo 架構的優勢與挑戰，並介紹相關工具與實務應用
 ---
 
 <div class="absolute top-10 right-10">
