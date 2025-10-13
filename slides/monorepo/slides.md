@@ -1,12 +1,11 @@
 ---
 author: Terry Lin
-theme: apple-basic
+theme: seriph
 title: Monorepo：拆分與整合的藝術
 drawings:
   persist: false
 transition: slide-left
-layout: intro-image
-image: "/images/Background.webp"
+background: https://cover.sli.dev
 ---
 
 <div class="absolute top-10 right-10">

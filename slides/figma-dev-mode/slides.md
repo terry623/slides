@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
-theme: default
-image: ./images/background.webp
+theme: seriph
+background: https://cover.sli.dev
 title: 為什麼需要 Figma Dev Mode？
 drawings:
   persist: false

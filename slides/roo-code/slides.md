@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
-theme: default
-image: /images/background.webp
+theme: seriph
+background: https://cover.sli.dev
 title: Roo Code 實戰指南
 drawings:
   persist: false

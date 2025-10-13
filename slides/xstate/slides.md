@@ -1,7 +1,7 @@
 ---
 author: Terry Lin
 # You can also start simply with 'default'
-theme: default
+theme: seriph
 # some information about your slides (markdown enabled)
 title: 像 MAGIC 一樣厲害的 XState
 # apply unocss classes to the current slide
@@ -13,6 +13,7 @@ drawings:
 transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+background: https://cover.sli.dev
 ---
 
 # 像 MAGIC 一樣厲害的 XState
