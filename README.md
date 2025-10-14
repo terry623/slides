@@ -2,4 +2,4 @@
 
 A collection of presentation slides by Terry Lin.
 
-<img width="1918" height="2048" alt="image" src="https://github.com/user-attachments/assets/14d59895-01cc-40d4-a6bb-34e75efd1d22" />
+<img width="2402" height="2986" alt="terry623 github io_slides_" src="https://github.com/user-attachments/assets/8078b0ab-0c7b-43b2-af82-61e7059427c5" />
