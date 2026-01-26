@@ -7,9 +7,11 @@ transition: slide-left
 mdc: true
 ---
 
-# Claude Code 省 Token 的五大心法
+# 用少少的錢做最多的事
+# Claude Code 省 Token 的
+# 心得分享
 
-拒絕錢包破洞，從這裡開始 💸
+Terry Lin
 
 ---
 layout: intro
@@ -179,6 +181,8 @@ layout: cover
 - 🔪 **殺雞不要用牛刀**：選對模型很重要
 - 🛑 **苗頭不對，馬上撤退**：發現不對就停手
 
+> 🔄 **常保工具更新**：`cch update && claude update`
+
 ---
 layout: center
 class: text-center
@@ -186,7 +190,8 @@ class: text-center
 
 # 下回預告
 
-# Claude Code 社群好物，那些你可能錯過的必看開源專案推薦
+# Claude Code 社群好物
+## 那些你可能錯過的必看開源專案推薦
 
 就像玩神裝 RPG，大神都怎麼配裝？
 下次分享一些好用的開源工具配置！
