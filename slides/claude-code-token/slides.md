@@ -1,14 +1,14 @@
 ---
 layout: cover
 background: https://cover.sli.dev?title=claude-code-token
-title: Claude Code 省 Token 心法
+title: Claude Code 省 Tokens 的心得分享
 author: Terry Lin
 transition: slide-left
 mdc: true
 ---
 
 # 用少少的錢做最多的事
-# Claude Code 省 Token 的
+# Claude Code 省 Tokens 的
 # 心得分享
 
 Terry Lin
@@ -23,14 +23,14 @@ layout: intro
 
 每天的 Quota 有上限，如果中午就用光，下午就沒事做了。
 
-因此如何善用 Token 發揮最大價值，就變得很重要了。
+因此如何善用 Tokens 發揮最大價值，就變得很重要了。
 
 ---
 layout: center
 class: text-center
 ---
 
-# 心法一：讓餘額一目瞭然 👀
+# 心法 1：讓餘額一目瞭然 👀
 
 隨時掌握 Quota，就像隨時知道錢包剩多少
 
@@ -39,9 +39,9 @@ class: text-center
 # 怎麼查餘額？
 
 - 🤔 **偶爾查**
-  - 不確定的時候用 Prompt 跟 AI 問一下。
+  - 不確定時，直接用 Prompt 問 AI。
 - 👀 **順便看**
-  - Terminal 的 Status Line 會顯示，養成餘光掃描的習慣。
+  - Terminal Status Line 常駐顯示，養成餘光掃瞄習慣。
 - 🚨 **抬頭看**
   - 裝個 Mac Menu Bar App，直接掛在螢幕頂端。
 
@@ -52,9 +52,9 @@ layout: center
 class: text-center
 ---
 
-# 心法二：Context 的收納與整理術 📦
+# 心法 2：Context 收納整理術 📦
 
-像整理房間一樣，常保輕盈與乾淨
+像整理房間一樣，常保空間輕盈乾淨
 
 ---
 
@@ -73,7 +73,7 @@ class: text-center
 - 開啟 `ENABLE_TOOL_SEARCH`，讓 Agent 自己搜、自己載。
 
 ### 🥷 Sub-agents
-- 大任務派分身。
+- 將某些任務交給分身。
 - 主 Agent 指揮，分身做完就消失，不佔記憶體。
 
 ---
@@ -82,7 +82,7 @@ class: text-center
 
 ### 🗑️ 指令斷捨離
 - `/clear`: 直接失憶，重新做人 (最省錢)。
-- `/compact`: 壓縮回憶 (折衷)。
+- `/compact`: 壓縮對話。
 
 ### 🥪 漸進式餵食
 - `CLAUDE.md` 也別一次塞滿。
@@ -93,7 +93,7 @@ layout: center
 class: text-center
 ---
 
-# 心法三：殺雞不要用牛刀 🔪
+# 心法 3：殺雞不要用牛刀 🔪
 
 把好鋼用在刀刃上，不要這也要 Opus 那也要 Opus
 
@@ -104,7 +104,7 @@ class: text-center
 - 🧠 **Claude Opus 4.5 (大腦擔當)**
   - **價格 5 倍**。Plan Mode 專用。負責把路徑想清楚，邏輯最強。
 - ⚡️ **Claude Sonnet 4.5 (手腳擔當)**
-  - **價格 3 倍**。Act Mode 專用。寫 Code 又快又好，CP 值最高。
+  - **價格 3 倍**。Act Mode 專用。寫 Code 又快又好，主力輸出。
 - 🏃 **Claude Haiku 4.5 (速度擔當)**
   - **價格 1 倍**。效率之王。適合快速迭代、單一任務與大規模數據處理。
 
@@ -113,15 +113,15 @@ layout: center
 class: text-center
 ---
 
-# 心法四：苗頭不對，馬上撤退 🛑
+# 心法 4：苗頭不對，馬上撤退 🛑
 
-拒絕「Token 焚化爐」
+拒絕成為「Token 焚化爐」
 
 ---
 
 # 什麼是「鬼打牆」？
 
-Claude 寫 Code ➡️ 報錯 💥 ➡️ Claude 修正 ➡️ 又報錯 💥 ➡️ Claude 再修正...
+寫 Code ➡️ 報錯 💥 ➡️ 修正 ➡️ 又報錯 💥 ➡️ 無限迴圈 💸
 
 ### 怎麼解？
 
@@ -135,10 +135,10 @@ layout: cover
 
 # 最後總結
 
-- 👀 **讓餘額一目瞭然**：隨時知道還剩多少
-- 📦 **Context 收納與整理**：保持輕盈與乾淨
-- 🔪 **殺雞不要用牛刀**：把好鋼用在對的刀刃上
-- 🛑 **苗頭不對，馬上撤退**：發現不對就停手
+- 👀 **讓餘額一目瞭然**：像盯著錢包一樣盯著 Quota
+- 📦 **Context 收納術**：只帶必要的，該丟的就丟
+- 🔪 **殺雞不用牛刀**：選對模型，省錢又高效
+- 🛑 **苗頭不對即撤**：拒絕陷入 Debug 的無限迴圈
 
 > 🔄 **記得常保工具更新**：`cch update && claude update`
 
@@ -152,5 +152,4 @@ class: text-center
 # Claude Code 社群好物
 ## 那些你可能錯過的必看開源專案推薦
 
-就像玩神裝 RPG，大神都怎麼配裝？
-下次分享一些好用的開源工具配置！
+就像玩 RPG 遊戲一樣，看看大神都怎麼配裝？
