@@ -58,8 +58,6 @@ class: text-center
 
 ---
 
-空間可視化：/context
-
 ### 使用指令
 - `/context`
   - 將目前的 Context 用量視覺化為彩色方格。
@@ -75,6 +73,7 @@ class: text-center
 ### Sub-agents
 - **適合調查與驗證**：把探索、檢查或確認的工作交給分身，主線保持乾淨。
 - **用完即丟**：主 Agent 指揮，分身做完就消失，不佔 Context。
+- **管理成本**：相對來說，也多了一點要管理的負擔。
 
 ---
 
@@ -102,11 +101,11 @@ class: text-center
 # 模型怎麼選？
 
 - **Claude Opus 4.5 (大腦擔當)**
-  - **價格 5 倍**。Plan Mode 專用。負責把路徑想清楚，邏輯最強。
+  - **價格 5 倍**。能力最強，但價格非常貴，必要時才用。
 - **Claude Sonnet 4.5 (手腳擔當)**
-  - **價格 3 倍**。Act Mode 專用。寫 Code 又快又好，主力輸出。
+  - **價格 3 倍**。寫 Code 又快又好，主力輸出。
 - **Claude Haiku 4.5 (速度擔當)**
-  - **價格 1 倍**。效率之王。適合快速迭代、單一任務與大規模數據處理。
+  - **價格 1 倍**。效率之王，適合快速迭代與大規模數據處理。
 
 ---
 layout: center
@@ -131,6 +130,18 @@ class: text-center
 - **ESC 快速中斷**：發現走錯方向，按一下 ESC 立刻停止，比等它跑完再糾正省多了！
 
 ---
+
+# 同場加映：環境與工具
+
+### Terminal 不設限
+- **位置感知**：外面的 Terminal 也能透過 VSCode Extension 感知當前位置。
+- **自由切換**：不一定要侷限在 VSCode 裡的側邊欄。
+
+### 工具常保新鮮
+- **自動檢查**：新版的 `coding-cli-helper` 會自動檢查 helper 的更新。
+- **手動升級**：如果版本太舊，可手動強制更新：`cch update && claude update`
+
+---
 layout: cover
 ---
 
@@ -140,8 +151,6 @@ layout: cover
 - **Context 收納術**：只帶必要的，該丟的就丟
 - **殺雞不用牛刀**：選對模型，省錢又高效
 - **苗頭不對即撤**：拒絕陷入 Debug 的無限迴圈
-
-> **記得常保工具更新**：`cch update && claude update`
 
 ---
 layout: center
