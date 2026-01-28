@@ -154,6 +154,8 @@ layout: cover
 
 ### Terminal 不設限
 - **Auto-connect to IDE**：設定開啟後，外面的 Terminal 也能透過 VSCode Extension 感知當前位置。
+- **快速編輯**：在 Terminal 直接按 `Ctrl + G` 即可用 VSCode 編輯輸入，對於複雜的 Prompt 來說也方便
+- **換行輸入**：按下 `Shift + Enter` 即可在對話框中換行，不用擔心手滑直接送出
 
 ### 進階省流
 - **關閉 Auto Compact**：預設會在剩餘 20% 空間時強制壓縮。手動關閉它，可以賺回這 20% 的空間。
