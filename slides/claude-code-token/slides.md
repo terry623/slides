@@ -73,7 +73,7 @@ class: text-center
 ### Sub-agents
 - **適合調查與驗證**：把探索、檢查或確認的工作交給分身，主線保持乾淨。
 - **用完即丟**：主 Agent 指揮，分身做完就消失，不佔 Context。
-- **管理成本**：相對來說，也多了一點要管理的負擔。
+- **管理成本**：相對來說也多了一點心智的負擔。
 
 ---
 
@@ -108,6 +108,14 @@ class: text-center
   - **價格 1 倍**。效率之王，適合快速迭代與大規模數據處理。
 
 ---
+
+# 快速切換模型
+
+### 隨時依需求變身
+- **指令切換**：輸入 `/model` 即可叫出選單。
+- **快捷鍵**：按下 `Command` + `P` (macOS) 或 `Alt` + `P` (Windows/Linux) 也能光速切換。
+
+---
 layout: center
 class: text-center
 ---
@@ -130,18 +138,6 @@ class: text-center
 - **ESC 快速中斷**：發現走錯方向，按一下 ESC 立刻停止，比等它跑完再糾正省多了！
 
 ---
-
-# 同場加映：環境與工具
-
-### Terminal 不設限
-- **位置感知**：外面的 Terminal 也能透過 VSCode Extension 感知當前位置。
-- **自由切換**：不一定要侷限在 VSCode 裡的側邊欄。
-
-### 工具常保新鮮
-- **自動檢查**：新版的 `coding-cli-helper` 會自動檢查 helper 的更新。
-- **手動升級**：如果版本太舊，可手動強制更新：`cch update && claude update`
-
----
 layout: cover
 ---
 
@@ -151,6 +147,21 @@ layout: cover
 - **Context 收納術**：只帶必要的，該丟的就丟
 - **殺雞不用牛刀**：選對模型，省錢又高效
 - **苗頭不對即撤**：拒絕陷入 Debug 的無限迴圈
+
+---
+
+# 同場加映：
+
+### Terminal 不設限
+- **Auto-connect to IDE**：設定開啟後，外面的 Terminal 也能透過 VSCode Extension 感知當前位置。
+
+### 進階省流
+- **關閉 Auto Compact**：預設會在剩餘 20% 空間時強制壓縮。手動關閉它，可以賺回這 20% 的空間。
+
+### 工具常保新鮮
+
+- **自動檢查**：新版 `coding-cli-helper` 會自動檢查更新。
+- **手動升級**：`cch update && claude update`
 
 ---
 layout: center
